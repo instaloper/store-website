@@ -1,5 +1,6 @@
 
-#👋 Welcome to store.org!
+👋
+# Welcome to store.org!
 
 [store.org](https://store.org) is a primary online resource for the Store community. The purpose of the site is to _“Be the best portal to store for our growing global community"_ - read more about what this means [here](https://store.org/en/about/).
 
